@@ -2,8 +2,6 @@
 
 Este proyecto es una aplicación web desarrollada en Node.js. A continuación, encontrarás las instrucciones para clonar el repositorio, instalar las dependencias, configurar el entorno y ejecutar la aplicación.
 
-## Instrucciones de instalación
-
 ### 1. Clonar el repositorio
 
 `git clone https://github.com/LucaasN/node-web-server.git`
