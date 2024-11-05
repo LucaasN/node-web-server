@@ -28,3 +28,5 @@ Para iniciar el servidor en modo de desarrollo, usa el siguiente comando: `npm r
 ### 6. Abrir el proyecto:
 Una vez que el servidor esté corriendo, abre tu navegador y accede al puerto configurado. Si has configurado PORT=3000, puedes abrir la aplicación en: http://localhost:3000/
 
+### 7. ¡Listo! Ahora deberías poder ver y utilizar la aplicación
+
