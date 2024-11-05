@@ -6,7 +6,7 @@ Este proyecto es una aplicación web desarrollada en Node.js. A continuación, e
 
 ### 1. Clonar el repositorio
 
-`git clone [[URL_DEL_REPOSITORIO]](https://github.com/LucaasN/node-web-server.git)`
+`git clone https://github.com/LucaasN/node-web-server.git`
 
 
 ### 2. Acceder al proyecto:
@@ -23,6 +23,10 @@ Este proyecto es una aplicación web desarrollada en Node.js. A continuación, e
 Crea un archivo .env en la raíz del proyecto y configura las variables de entorno en base al archivo .env.template.
 
 
-### 5. Abrir el proyecto:
+### 5. Ejecutar el proyecto:
+Para iniciar el servidor en modo de desarrollo, usa el siguiente comando: `npm run dev`
+
+
+### 6. Abrir el proyecto:
 Una vez que el servidor esté corriendo, abre tu navegador y accede al puerto configurado. Si has configurado PORT=3000, puedes abrir la aplicación en: http://localhost:3000/
 
